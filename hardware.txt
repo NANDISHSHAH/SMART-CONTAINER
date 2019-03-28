@@ -1,0 +1,4 @@
+LOAD CELL 5KG
+HX711
+Arduino uno
+esp2866
